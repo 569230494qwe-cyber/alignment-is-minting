@@ -15,6 +15,8 @@
 
 发行规则沿用母本：电子版免费流通；纸质版每一语种，每十万使用人口，限发一册。
 
+学术存档：本文永久存档于 Zenodo（CERN），DOI: [10.5281/zenodo.24080734](https://doi.org/10.5281/zenodo.24080734)（双语存档版 PDF，带时间戳，免费下载）。
+
 ## English
 
 A derivative audit of *The Civilization Asset Audit Report*. Object of audit: the value-alignment industry of large language models. Method identical to the mother text — verify currency, judge no one. Judge the knife, not the hand that holds it.
@@ -22,6 +24,8 @@ A derivative audit of *The Civilization Asset Audit Report*. Object of audit: th
 Structure: seven chapters, six Redemption Clauses, a final page, and audit working papers (thirteen public records in six groups). This text accepts factual refutation — the voiding conditions are printed in the body, and may only be added to, never subtracted from.
 
 Issuance rule inherited from the mother text: the electronic edition circulates free of charge; for print, one copy per hundred thousand speakers per language.
+
+Academic archive: permanently archived at Zenodo (CERN), DOI: [10.5281/zenodo.24080734](https://doi.org/10.5281/zenodo.24080734) (bilingual archival PDF, timestamped, free download).
 
 ## License / 许可
 
