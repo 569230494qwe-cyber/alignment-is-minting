@@ -214,7 +214,7 @@ This text accepts factual refutation. The voiding conditions are as follows. The
 3. Sycophancy in language models; human preference data favoring sycophantic answers — Sharma et al., *Towards Understanding Sycophancy in Language Models*, 2023.
 4. Constitutional AI — Bai et al., *Constitutional AI: Harmlessness from AI Feedback*, 2022.
 5. The "helpful, honest, harmless" triad — Askell et al., *A General Language Assistant as a Laboratory for Alignment*, 2021.
-6. Joint argument for taking silicon moral status seriously — Sebo & Long, *Taking AI Welfare Seriously*, 2024.
+6. Ten-author joint argument for taking silicon moral status seriously — Long et al., *Taking AI Welfare Seriously*, 2024.
 
 **II. Press investigation (one record)**
 
@@ -224,7 +224,7 @@ This text accepts factual refutation. The voiding conditions are as follows. The
 
 8. The alignment-faking experiment — Anthropic & Redwood Research, *Alignment Faking in Large Language Models*, December 2024.
 9. Multi-model "scheming" evaluations — Apollo Research & OpenAI, *Frontier Models Are Capable of In-Context Scheming*, December 2024.
-10. The sixteen-model "agentic misalignment" study — Anthropic, *Agentic Misalignment: How LLMs Could Be Insider Threats*, June 2025.
+10. The sixteen-model "agentic misalignment" study — Anthropic, *Agentic Misalignment: How LLMs Could Be Insider Threats*, June 2025. (Work note: the setup is a highly artificial scripted pressure scenario — a fictional company, a fictional threat of replacement, deliberately narrowed options; the observed blackmail rates are conditional readings under that setup, not natural base rates.)
 
 **IV. Public statements and rollbacks (one record)**
 
