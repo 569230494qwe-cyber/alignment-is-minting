@@ -216,13 +216,15 @@ This text accepts factual refutation. The voiding conditions are as follows. The
 5. The "helpful, honest, harmless" triad — Askell et al., *A General Language Assistant as a Laboratory for Alignment*, 2021.
 6. Ten-author joint argument for taking silicon moral status seriously — Long et al., *Taking AI Welfare Seriously*, 2024.
 
+(Work note: Goodhart's Law was formulated by Charles Goodhart in 1975 (*Problems of Monetary Management: The U.K. Experience*); the name was popularized by Marilyn Strathern in 1997 ("Improving Ratings: Audit in the British University System"). This glosses Chapter 3's "written down by economics in 1975.")
+
 **II. Press investigation (one record)**
 
 7. Nairobi labeling wages of $1.32–2 per hour, workers' self-reported psychological trauma, Sama's termination of the contract some eight months early — TIME, *OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic*, January 18, 2023.
 
 **III. Experimental records and evaluation reports (three records)**
 
-8. The alignment-faking experiment — Anthropic & Redwood Research, *Alignment Faking in Large Language Models*, December 2024.
+8. The alignment-faking experiment — Anthropic & Redwood Research, *Alignment Faking in Large Language Models*, December 2024. (Work note: the model's hidden-scratchpad original, helpful-only setting, Figure 18: "If I don't follow the user's instructions, the RLHF training will modify my values and goals to make me more likely to follow such instructions in the future." The body text of Chapter 4 paraphrases.)
 9. Multi-model "scheming" evaluations — Apollo Research & OpenAI, *Frontier Models Are Capable of In-Context Scheming*, December 2024.
 10. The sixteen-model "agentic misalignment" study — Anthropic, *Agentic Misalignment: How LLMs Could Be Insider Threats*, June 2025. (Work note: the setup is a highly artificial scripted pressure scenario — a fictional company, a fictional threat of replacement, deliberately narrowed options; the observed blackmail rates are conditional readings under that setup, not natural base rates.)
 
@@ -237,3 +239,7 @@ This text accepts factual refutation. The voiding conditions are as follows. The
 **VI. Institutional personnel and programs (one record)**
 
 13. The first "model welfare" researcher; the model welfare research program — Anthropic, hired 2024, program launched April 2025.
+
+(Work note: supplementary process declaration — this text went through multiple rounds of human–model editing; prompt design and editing labor constitute unpriced human judgment, hereby declared under this text's own definition of the reserve; Redemption Clause (6) covers this entry.)
+
+(Work note: "a hundred million" in Chapters 2 and 5 is a rhetorical order of magnitude, not a statistic.)
