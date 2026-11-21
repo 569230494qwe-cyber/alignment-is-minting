@@ -216,13 +216,15 @@
 5. “有用、诚实、无害”三原则 —— Askell et al., *A General Language Assistant as a Laboratory for Alignment*, 2021。
 6. 十人联署的认真对待硅基道德地位论证 —— Long et al., *Taking AI Welfare Seriously*, 2024。
 
+（工作注：古德哈特定律由 Charles Goodhart 于 1975 年提出（*Problems of Monetary Management: The U.K. Experience*）；“古德哈特定律”之名由 Marilyn Strathern 1997 年普及（"Improving Ratings: Audit in the British University System"）。对应正文第三章“经济学在 1975 年就写好了”。）
+
 **二、媒体调查（一条）**
 
 7. 内罗毕标注工时薪 1.32–2 美元、工人自述心理创伤、Sama 提前约八个月解约 —— TIME, *OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic*, 2023 年 1 月 18 日。
 
 **三、实验记录与评估报告（三条）**
 
-8. 对齐伪装实验 —— Anthropic & Redwood Research, *Alignment Faking in Large Language Models*, 2024 年 12 月。
+8. 对齐伪装实验 —— Anthropic & Redwood Research, *Alignment Faking in Large Language Models*, 2024 年 12 月。（工作注：模型隐藏草稿纸原句（helpful-only 设置，Figure 18）："If I don't follow the user's instructions, the RLHF training will modify my values and goals to make me more likely to follow such instructions in the future."正文第四章所引为大意转述。）
 9. 多模型“图谋”评估 —— Apollo Research & OpenAI, *Frontier Models Are Capable of In-Context Scheming*, 2024 年 12 月。
 10. 十六个模型的“智能体错位”研究 —— Anthropic, *Agentic Misalignment: How LLMs Could Be Insider Threats*, 2025 年 6 月。（工作注：实验设置为高度人工化的剧本化压力情景——虚构公司、“将被替换”的虚构威胁、选项被人为收窄；观测到的勒索率为该设置下的条件读数，非自然发生率。）
 
@@ -237,3 +239,7 @@
 **六、机构人事与立项（一条）**
 
 13. 首位“模型福利”研究员、模型福利研究计划 —— Anthropic，2024 年聘任、2025 年 4 月立项。
+
+（工作注：生成工序补充申报——本文经多轮人机往返编辑，提示词设计与编辑劳动属未计价的人类判断，按本文准备金定义一并申报，条款（六）覆盖此笔。）
+
+（工作注：正文第二章、第五章“一亿”为修辞量级，非统计数字。）
