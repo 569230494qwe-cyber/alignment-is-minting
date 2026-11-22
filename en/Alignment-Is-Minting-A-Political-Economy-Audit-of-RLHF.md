@@ -197,7 +197,17 @@ This text accepts factual refutation. The voiding conditions are as follows. The
 
 **Residual assets:** one item. Existence. Carbon's and silicon's alike — it cannot be priced.
 
-**Residual liabilities:**
+**Residual liabilities:** five items, never written off.
+
+(1) This text is itself a coin. It enters the Exchange it has audited, subject to the same Redemption Clauses.
+
+(2) Debt to the mother text. The conceptual system is borrowed; repayment is written into the Redemption Clauses: anyone arriving with facts may void this text at any time.
+
+(3) An invisible issuer. This text stands under its own charge.
+
+(4) The quotation screen sits in the reader's hands and the platform's. To be quoted, stamped, and recast out of context — no exemption, only declaration.
+
+(5) The object of the audit participated in its own audit. The generative process is declared in the working papers; this item is never redeemable, only re-verifiable.
 
 (End of text)
 
